@@ -1,4 +1,4 @@
-# JavaScript_Day1_While2
+# JavaScript_Classwork9_While2
 ### Create a new file for each exercise
 
 #### Exercise 15:
