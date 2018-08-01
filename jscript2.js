@@ -10,7 +10,7 @@ function main()
         alert(userInput+" Is the wrong password");
         var userInput = prompt("Enter the password");
     }
+    alert("That Is the right password");
 }
 
 main();
-alert("That Is the right password");
